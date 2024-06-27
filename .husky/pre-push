@@ -1,0 +1,4 @@
+bun run lint
+bunx lint-staged
+bun run build
+
